@@ -1,6 +1,6 @@
 # Phpvms-OrangePeel Skin
 Multiple Skins for PHPVMS built from the Ground Up !
-Our skins are designed for the following; <strong>PHP file format, NOT tpl. PHP Server version 5.6.xx, 
+Our skins are designed for the following; <strong>PHP file format, NOT tpl. </strong>PHP Server version 5.6.xx, 
 this will work with server version 5.3.xx,
 but no promises on 5.3.xx. This is an advanced skin, we have done all the work for you, 
 just upload the contents to your Server As is, make sure you upload "ALL" of the included files. 
