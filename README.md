@@ -5,3 +5,5 @@ Reconfigured, and completely overhauled for a Clean, and Basic PHPVMS Template f
 Just starting Out or for those who want a basic template to redesign on thier own.
 You can reach me at the phpvms Forums, under Heritage1 for further info.
 Designed by Heritage VA & Jim L.
+To View the Live Working PHPVMS Skin, please visit the following Web Site below.
+http://heritageairlines.com/hva
